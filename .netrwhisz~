@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/xoozi/desktop/workspace/project/android/dev/HelloJni/src/com/apress/swig'
+let g:netrw_dirhist_2='/home/xoozi/desktop/workspace/stu/linux_src/linux-stable'
+let g:netrw_dirhist_3='/home/xoozi/desktop/workspace/ides/ndk/android-ndk-r9c/platforms/android-19/arch-arm/usr/include'
+let g:netrw_dirhist_4='/home/xoozi/desktop/workspace/ides/ndk/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/EGL'
+let g:netrw_dirhist_5='/home/xoozi/desktop/workspace/ides/ndk/android-ndk-r9c/platforms/android-19/arch-arm/usr/include'
+let g:netrw_dirhist_6='/home/xoozi/desktop/workspace/ides/ndk/android-ndk-r9c/platforms/android-19/arch-arm/usr/include/EGL'

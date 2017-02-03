@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/xoozi/.workspace/project/android/dev/JCStaff/src/com/jcnetwork/jcstaff'
+let g:netrw_dirhist_2='/home/xoozi/.workspace/project/android/dev/JCStaff/src/com/jcnetwork/jcstaff/overlay'
+let g:netrw_dirhist_3='/home/xoozi/.workspace/stu/c/cii/my'
+let g:netrw_dirhist_4='/home/xoozi/.workspace/stu/c/cii/my/include'
+let g:netrw_dirhist_5='/home/xoozi/.workspace/stu/c/cii/my'
+let g:netrw_dirhist_6='/home/xoozi/.workspace/stu/c/cii/my/src'
+let g:netrw_dirhist_7='/home/xoozi/.workspace/stu/c/cii/my'
+let g:netrw_dirhist_8='/home/xoozi/.workspace/stu/c/cii/my/test'
